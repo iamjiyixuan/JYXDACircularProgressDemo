@@ -12,7 +12,7 @@
 #import <DACircularProgress/DACircularProgressView.h>
 #import <Masonry/Masonry.h>
 
-CGSize const kCircularProgressViewSize = {50.0f, 50.0f};
+CGSize const kCircularProgressViewSize = {100.0f, 100.0f};
 
 UIColor * const kJYXLightBlueColor(CGFloat alpha)
 {
